@@ -1,0 +1,22 @@
+html{
+  background-color: rgba(211, 173, 106, 0.772);
+}
+
+body{
+    font-family:fantasy;
+}
+
+ul{
+  font-size:17px;
+}
+
+p{
+  font-size:20px;
+}
+div{
+  position:relative;
+}
+
+p{
+  text-align:center;
+}
